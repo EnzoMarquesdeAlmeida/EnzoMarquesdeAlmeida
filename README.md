@@ -1,16 +1,14 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 
 
-<!--
-**EnzoMarquesdeAlmeida/EnzoMarquesdeAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Enzo Marques
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https//www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para organiar e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Você pode entrar em contato comigo 📫
+
+  00001111488745sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/Bhfsf31ISUoAAAAi/brawl-stars-squike.gif)
+
